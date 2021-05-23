@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @amankumar030
-- 👀 I’m interested in Software devlopment and Deep Learning
+- 👋 Hi, I’m Aman
+- 👀 I’m interested in Software development and Deep Learning
 
 <!---
 amankumar030/amankumar030 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
